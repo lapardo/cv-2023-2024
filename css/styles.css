@@ -18,7 +18,7 @@ body {
 }
 
 .resume-main {
-	background-color: #fffefc;
+	background-color: greenyellow;
 }
 
 .resume-aside {
@@ -48,4 +48,10 @@ body {
 .contact-icon {
 	height: 1em;
 	flex-basis: 1.4em;
+}
+
+/* my styles */
+
+header {
+	background-color: greenyellow;
 }
